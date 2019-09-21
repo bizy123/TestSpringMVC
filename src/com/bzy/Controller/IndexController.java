@@ -12,7 +12,7 @@ public class IndexController extends BaseController{
 		System.out.println("index运行"+req.getParameter("userName"));
 }
 	
-	@RequestMapping("/find666666")
+	@RequestMapping("/find121323")
 	public void find() {
 		System.out.println("find运行"+req.getParameter("userName"));
 }
